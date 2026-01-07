@@ -1,0 +1,5 @@
+"D:\Program Files\JetBrains\CLion 2025.2.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug --preset Debug -S E:\32\clion_stm32\LED__Python_control -B E:\32\clion_stm32\LED__Python_control\build\Debug
+Build type: Debug
+-- Configuring done (0.3s)
+-- Generating done (0.0s)
+-- Build files have been written to: E:/32/clion_stm32/LED__Python_control/build/Debug

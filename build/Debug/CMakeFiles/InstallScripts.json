@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"E:/32/clion_stm32/LED__Python_control/build/Debug/cmake_install.cmake",
+		"E:/32/clion_stm32/LED__Python_control/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
